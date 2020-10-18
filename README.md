@@ -1,4 +1,4 @@
-# Quest Apps JS
+# Quest Games JS
 > API Interface for [qDesk Games](https://github.com/QuestNetwork/quest-games-js) 
 
 ## Lead Maintainer
