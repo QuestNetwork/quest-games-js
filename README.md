@@ -9,7 +9,7 @@
 
 The Games module for the [Quest Network Operating System](https://github.com/QuestNetwork/quest-os-js) interacts with optional user facing technology, [Quest Coral JS](https://github.com/QuestNetwork/quest-coral-js), [Quest Social JS](https://github.com/QuestNetwork/quest-social-js).  and [Quest Dolphin JS](https://github.com/QuestNetwork/quest-dolphin-js). 
 
-It synchronizes a game library with reviews and comments. and offer chunks of data to provide games between peers in Quest Network channels. 
+It synchronizes a game library with reviews, comments and offers chunks of data to provide games between peers in Quest Network channels. 
 
 ## License
 
