@@ -12,7 +12,7 @@ The Games module for the [Quest Network Operating System](https://github.com/Que
 
 It synchronizes a game library and offer chunks of data to provide games between peers in Quest Network channels. 
 
-```
+
 
 ## License
 
