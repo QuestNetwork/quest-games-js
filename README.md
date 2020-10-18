@@ -1,5 +1,5 @@
 # Quest Games JS
-> API Interface for [qDesk Games](https://github.com/QuestNetwork/qd-games-js) 
+> API Interface for [qDesk Games](https://github.com/QuestNetwork/qd-games-ts) 
 
 ## Lead Maintainer
 
